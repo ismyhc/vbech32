@@ -14,13 +14,13 @@ vbech32 is a V language implementation of the Bech32 address format specified in
 To use vbech32 in your V project, you can install it via VPM:
 
 ```
-v install Galaxoid-Labs.vbech32
+v install ismyhc.vbech32
 ```
 
 Or clone the repository:
 
 ```
-git clone https://github.com/Galaxoid-Labs/vbech32.git
+git clone https://github.com/ismyhc/vbech32.git
 cd vbech32
 v install
 ```
@@ -28,6 +28,8 @@ v install
 ## Usage
 
 Take a look at the tests for now. More documentation will be added soon.
+
+`import ismyhc.vbech32`
 
 ## License
 
